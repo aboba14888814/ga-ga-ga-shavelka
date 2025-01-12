@@ -1,0 +1,69 @@
+body h1{
+    text-align: center;
+    color: greenyellow;
+}
+
+main a{
+    color: white;
+}
+
+main h2{
+    color: forestgreen;
+}
+
+main p{
+    color: white;
+}
+
+body{
+    background-color: black;
+}
+
+main img{
+    width: 202px;
+    height: 135px;
+}
+
+main h2{
+    text-align: center;
+    font-size: 35px;
+}
+
+main img{
+    border-radius: 10px;
+    margin: 13px;
+}
+
+main p{
+    font-size: 17px;
+}
+
+footer{
+    background-color: whitesmoke;
+    padding: 20px;
+}
+
+main{
+    color: white;
+}
+
+main img{
+    width: 202px;
+    height: 135px;
+    border-radius: 10px;
+    margin: 13px;
+    border: 5px solid white;
+}
+
+nav{
+    color: white; 
+}  
+
+nav a{
+    text-decoration: none;
+    color: white;
+}
+
+footer{
+    text-align: center;
+}
